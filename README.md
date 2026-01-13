@@ -7,7 +7,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer-Motion-FF0055?style=for-the-badge&logo=framer)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
 
-### 🟢 [Live Demo → monsterenergy.vercel.app](https://monsterenergy.vercel.app)
+### 🟢 [Live Demo → monsterenergy-theta.vercel.app](https://monsterenergy-theta.vercel.app)
 
 A stunning **Awwwards-level scrollytelling** landing page for Monster Energy featuring **rotating 3D can animations** as you scroll! Built entirely using AI coding assistants - no manual coding required! 🤯
 
